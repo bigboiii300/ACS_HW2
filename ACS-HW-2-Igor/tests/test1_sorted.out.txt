@@ -1,0 +1,22 @@
+Sorted container:
+Container contains 5 elements.
+1: Replace by Shift: shift = 5, 
+encrypted = x-v-x-v-c-x-c-x-v-x-v-
+sum / strlen(value) = 67.454545.
+=================================================
+2: Replace by Shift: shift = 1, 
+encrypted = e-r-w-w-
+sum / strlen(value) = 65.250000.
+===================================
+3: Replace by Shift: shift = 1, 
+encrypted = r-w-e-r-w-f-v-s-f-d-
+sum / strlen(value) = 62.400000.
+===============================================
+4: Replace by Shift: shift = 3, 
+encrypted = w-e-r-w-f-f-s-d-f-
+sum / strlen(value) = 60.222222.
+=============================================
+5: Replace by Shift: shift = 2, 
+encrypted = g-d-s-d-g-s-d-s-d-
+sum / strlen(value) = 57.666667.
+=============================================

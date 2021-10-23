@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Islombek/CLionProjects/ACS-HW/ACS-HW-2-Igor/EncryptionText.h
+cstdio
+-
+EncryptionText.h
+/cygdrive/c/Users/Islombek/CLionProjects/ACS-HW/ACS-HW-2-Igor/EncryptionText.h
+utils.h
+/cygdrive/c/Users/Islombek/CLionProjects/ACS-HW/ACS-HW-2-Igor/utils.h
+
+/cygdrive/c/Users/Islombek/CLionProjects/ACS-HW/ACS-HW-2-Igor/ReplaceWithDigit.cpp
+ReplaceWithDigit.h
+/cygdrive/c/Users/Islombek/CLionProjects/ACS-HW/ACS-HW-2-Igor/ReplaceWithDigit.h
+
+/cygdrive/c/Users/Islombek/CLionProjects/ACS-HW/ACS-HW-2-Igor/ReplaceWithDigit.h
+EncryptionText.h
+/cygdrive/c/Users/Islombek/CLionProjects/ACS-HW/ACS-HW-2-Igor/EncryptionText.h
+utils.h
+/cygdrive/c/Users/Islombek/CLionProjects/ACS-HW/ACS-HW-2-Igor/utils.h
+
+/cygdrive/c/Users/Islombek/CLionProjects/ACS-HW/ACS-HW-2-Igor/utils.h
+cstdlib
+-
+ctime
+-
+cstring
+-
+cstdio
+-
+cstddef
+-
+
